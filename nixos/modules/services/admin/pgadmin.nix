@@ -225,6 +225,7 @@ in
         PrivateDevices = true;
         PrivateMounts = true;
         PrivateTmp = true;
+        PrivateUsers = true;
         ProtectClock = true;
         ProtectControlGroups = true;
         ProtectHome = true;
